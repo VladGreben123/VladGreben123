@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vlad Grebenschikov
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Open+to+Junior+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;" alt="Typing SVG" />
 </p>
 
 
@@ -10,8 +10,6 @@
 - 💻 Frontend Developer focused on **React**, **TypeScript** and **Next.js**
 - 🚀 Building clean, responsive and user-friendly interfaces
 - 🌱 Continuously learning modern frontend technologies
-- 🔍 Open to Junior Frontend Developer roles (Remote / Russia)
-
 
 ### Tech Stack
 
