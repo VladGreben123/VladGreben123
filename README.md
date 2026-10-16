@@ -32,7 +32,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 <br>
 
 ### Featured Projects
@@ -43,7 +42,7 @@
 | **SimbirSoft-testTask** | Job application test task | TypeScript | [GitHub](https://github.com/VladGreben123/SimbirSoft-testTask) |
 | **pet-project-dashboard** | Dashboard pet-project to practice Next.js and modern skills | TypeScript, Next.js | [GitHub](https://github.com/VladGreben123/pet-project-dashboard) |
 | **Perfect-layout-project** | Pixel-perfect implementation based on design mockup | HTML, CSS | [GitHub](https://github.com/VladGreben123/Perfect-layout-project) |
-| **Smart-City-Light-Monitoring** | Automated drone-oriented system for a smart city | Python | [GitHub](https://github.com/VladGreben123/Smart-City-Light-Monitoring) |
+| **Smart-City-Light-Monitoring** | Automated drone-oriented system for a smart city | Python, JavaScript| [GitHub](https://github.com/VladGreben123/Smart-City-Light-Monitoring) |
 
 <br>
 
