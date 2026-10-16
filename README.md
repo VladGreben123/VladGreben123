@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;" alt="Typing SVG" />
 </div>
-
 <br>
 
 ### About Me
@@ -13,7 +12,6 @@
 - 🚀 Building clean, responsive and user-friendly interfaces
 - 🌱 Continuously learning modern frontend technologies
 - 🔍 Open to Junior Frontend Developer roles (Remote / Russia)
-
 <br>
 
 ### Tech Stack
@@ -45,11 +43,10 @@
 | **Smart-City-Light-Monitoring** | Automated drone-oriented system for a smart city | Python, JavaScript| [GitHub](https://github.com/VladGreben123/Smart-City-Light-Monitoring) |
 
 <br>
-
 ### Contact
 
 - 💼 LinkedIn: [linkedin.com/in/vlad-grebenschikov-6b1a1b443]([https://linkedin.com/in/](https://www.linkedin.com/in/vlad-grebenschikov-6b1a1b443/))
-- 📱 Telegram: [@duinsh](https://t.me/duinsh))
+- 📱 Telegram: [@duinsh](https://t.me/duinsh)
 - 🌐 Portfolio: *coming soon*
   
 <br>
