@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vlad Grebenschikov
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Open+to+Junior+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;" alt="Typing SVG" />
 </div>
 
 <br>
@@ -47,15 +47,6 @@
 
 <br>
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladGreben123&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladGreben123&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<br>
-
 ### Contact
 
 - 💼 LinkedIn: [linkedin.com/in/vlad-grebenschikov-6b1a1b443]([https://linkedin.com/in/](https://www.linkedin.com/in/vlad-grebenschikov-6b1a1b443/))
@@ -65,5 +56,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&style=flat-square&color=2F80ED" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VladGreben123&style=flat-square&color=2F80ED" alt="Profile views" />
 </div>
