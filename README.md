@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Open+to+Junior+opportunities" alt="Typing SVG" />
 </p>
 
----
 
 ### About Me
 
@@ -14,7 +13,6 @@
 - 🌱 Continuously learning modern frontend technologies
 - 🔍 Open to Junior Frontend Developer roles (Remote / Russia)
 
----
 
 ### Tech Stack
 
@@ -35,7 +33,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ### Featured Projects
 
@@ -47,7 +44,6 @@
 | **Perfect-layout-project** | Pixel-perfect implementation based on design mockup | HTML, CSS | [GitHub](https://github.com/VladGreben123/Perfect-layout-project) |
 | **Smart-City-Light-Monitoring** | Automated drone-oriented system for a smart city | Python, JavaScript | [GitHub](https://github.com/VladGreben123/Smart-City-Light-Monitoring) |
 
----
 
 ### Contact
 
