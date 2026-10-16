@@ -41,8 +41,8 @@
 | **pet-project-dashboard** | Dashboard pet-project to practice Next.js and modern skills | TypeScript, Next.js | [GitHub](https://github.com/VladGreben123/pet-project-dashboard) |
 | **Perfect-layout-project** | Pixel-perfect implementation based on design mockup | HTML, CSS | [GitHub](https://github.com/VladGreben123/Perfect-layout-project) |
 | **Smart-City-Light-Monitoring** | Automated drone-oriented system for a smart city | Python, JavaScript| [GitHub](https://github.com/VladGreben123/Smart-City-Light-Monitoring) |
-
 <br>
+
 ### Contact
 
 - 💼 LinkedIn: [linkedin.com/in/vlad-grebenschikov-6b1a1b443]([https://linkedin.com/in/](https://www.linkedin.com/in/vlad-grebenschikov-6b1a1b443/))
