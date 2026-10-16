@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;" alt="Typing SVG" />
 </div>
 <br>
-
 ### About Me
 
 - 🎓 4th-year student at **KNRTU-KAI** (Applied Informatics in Robotics)
@@ -13,7 +12,6 @@
 - 🌱 Continuously learning modern frontend technologies
 - 🔍 Open to Junior Frontend Developer roles (Remote / Russia)
 <br>
-
 ### Tech Stack
 
 **Frontend**  
